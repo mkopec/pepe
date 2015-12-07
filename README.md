@@ -8,7 +8,7 @@ Umożliwia logowanie się na pe.szczecin.pl przez wcisnięcie klawisza Enter.
 ###Wersja Chrome:
 [Link do pobierania](https://github.com/mkopec/pepe/blob/master/bin/chrome.crx?raw=true)
 
-Ten plik należy przeciągnąć upuścić w ustawieniach Chrome, w zakładce Rozszerzenia
+Ten plik należy przeciągnąć upuścić w ustawieniach Chrome, w zakładce Rozszerzenia.
 
 ##Instrukcje kompilacji
 ###Wersja Firefox:

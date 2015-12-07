@@ -1,5 +1,5 @@
 #Portal Edukacyjny - Logowanie przez Enter
-Umożliwia logowanie się na pe.szczecin.pl przez wcisnięcie klawisza Enter
+Umożliwia logowanie się na pe.szczecin.pl przez wcisnięcie klawisza Enter.
 
 ##Instrukcje instalacji
 ###Wersja Firefox:

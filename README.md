@@ -1,9 +1,13 @@
 #Portal Edukacyjny - Logowanie przez Enter
 Umożliwia logowanie się na pe.szczecin.pl przez wcisnięcie klawisza Enter
 
-##Instrukcja kompilacji
+##Instrukcje kompilacji
 ###Wersja Firefox:
-`make`
+Wymagania:
+- `make`
+- `jpm`
+
+W folderze głównym, w terminalu wpisz: `make`
 
 W folderze bin/ pojawi się skompilowana wersja dodatku.
 

@@ -1,6 +1,14 @@
 #Portal Edukacyjny - Logowanie przez Enter
 Umożliwia logowanie się na pe.szczecin.pl przez wcisnięcie klawisza Enter
 
+##Instrukcje instalacji
+###Wersja Firefox:
+(Link)[https://addons.mozilla.org/pl/firefox/addon/pepe/]
+
+###Wersja Chrome:
+(Link)[]
+Ten plik należy przeciągnąć upuścić w ustawieniach Chrome, w zakładce Rozszerzenia
+
 ##Instrukcje kompilacji
 ###Wersja Firefox:
 Wymagania:
@@ -9,7 +17,7 @@ Wymagania:
 
 W folderze głównym, w terminalu wpisz: `make`
 
-W folderze bin/ pojawi się skompilowana wersja dodatku.
+W folderze bin/ pojawi się skompilowana wersja dodatku (plik .xpi).
 
 ###Wersja Chrome:
 1. Otwórz Chrome
@@ -19,4 +27,4 @@ W folderze bin/ pojawi się skompilowana wersja dodatku.
 5. Kliknij "Umieść rozszerzenie w pakiecie"
 6. Wybierz folder chrome/
 
-W głównym folderze pojawi się skompilowana wersja dodatku.
+W głównym folderze pojawi się skompilowana wersja dodatku (plik .crx).

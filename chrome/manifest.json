@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "content_scripts": [ {
+        "exclude_globs":    [  ],
+        "include_globs":    [ "*" ],
+        "js":               [ "pepe.user.js" ],
+        "matches":          [ "https://pe.szczecin.pl/*" ],
+        "run_at": "document_end"
+    } ],
+    "converted_from_user_script": true,
+    "description":  "Umożliwia logowanie się na pe.szczecin.pl przez wcisnięcie klawisza Enter.",
+    "name":         "Portal Edukacyjny - Logowanie przez Enter",
+    "short_name":   "Portal Edukacyjny - Press Enter",
+    "icons": {  "48": "icon.png",
+                "64": "icon64.png" },
+    "version":      "1"
+}

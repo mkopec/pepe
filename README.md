@@ -3,10 +3,11 @@ Umożliwia logowanie się na pe.szczecin.pl przez wcisnięcie klawisza Enter
 
 ##Instrukcje instalacji
 ###Wersja Firefox:
-[Link](https://addons.mozilla.org/pl/firefox/addon/pepe/)
+[Link do instalacji](https://addons.mozilla.org/pl/firefox/addon/pepe/)
 
 ###Wersja Chrome:
-[Link](https://github.com/mkopec/pepe/blob/master/bin/chrome.crx?raw=true)
+[Link do pobierania](https://github.com/mkopec/pepe/blob/master/bin/chrome.crx?raw=true)
+
 Ten plik należy przeciągnąć upuścić w ustawieniach Chrome, w zakładce Rozszerzenia
 
 ##Instrukcje kompilacji

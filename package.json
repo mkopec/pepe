@@ -1,0 +1,16 @@
+{
+  "title": "Portal Edukacyjny - logowanie przez Enter",
+  "name": "pepe",
+  "version": "1.0",
+  "description": "Umożliwia logowanie się na pe.szczecin.pl przez wcisnięcie klawisza Enter.",
+  "main": "index.js",
+  "author": "Michał Kopeć",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
